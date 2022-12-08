@@ -200,7 +200,7 @@ for (let i = 0; i < starWarsCharacters.length; i++) {
 let i = 0;
 let masstot = 0;
 while (i < allmass.length) {
-  masstot = masstot + allmass[1];
+  masstot = masstot + allmass[i];
   i++;
 }
 
